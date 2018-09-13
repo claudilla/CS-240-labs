@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]

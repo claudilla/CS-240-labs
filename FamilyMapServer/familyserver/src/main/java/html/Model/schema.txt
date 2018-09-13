@@ -1,0 +1,36 @@
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS `user` (
+	`Username`	TEXT,
+	`Password`	TEXT,
+	`Email`	TEXT,
+	`First Name`	TEXT,
+	`Last Name`	TEXT,
+	`Gender`	TEXT,
+	`Person ID`	TEXT
+);
+CREATE TABLE IF NOT EXISTS `person` (
+	`personID`	TEXT,
+	`descendant`	TEXT,
+	`firstname`	TEXT,
+	`lastname`	TEXT,
+	`gender`	TEXT,
+	`father`	TEXT,
+	`spouse`	TEXT
+);
+CREATE TABLE IF NOT EXISTS `event` (
+	`eventID`	TEXT,
+	`descendant`	TEXT,
+	`person`	TEXT,
+	`latitude`	TEXT,
+	`longitude`	TEXT,
+	`country`	TEXT,
+	`city`	TEXT,
+	`eventType`	TEXT,
+	`year`	TEXT
+);
+CREATE TABLE IF NOT EXISTS `AuthToken` (
+	`username`	TEXT,
+	`authToken`	TEXT,
+	`time`	INTEGER
+);
+COMMIT;

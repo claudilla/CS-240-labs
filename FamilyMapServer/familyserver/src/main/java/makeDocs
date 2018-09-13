@@ -1,0 +1,2 @@
+javadoc -d html $(find -name *.java)
+cp -r html/* ~/public_html/

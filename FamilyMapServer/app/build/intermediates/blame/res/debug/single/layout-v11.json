@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/users/guest/c/claudita/AndroidStudioProjects/FamilyMapServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]
